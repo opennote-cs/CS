@@ -18,4 +18,4 @@ On paper computer starts out at the ***theoretical side*** of things then moves 
 
 But in reality, it doesn't work like that. e.g 👇
 
-![alt text]((https://github.com/opennote-cs/cs/blob/main/module%201%20/lesson%201/img/Reality.png)
+![alt text](https://github.com/opennote-cs/cs/blob/main/module%201%20/lesson%201/img/Reality.png)
