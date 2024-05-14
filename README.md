@@ -1,4 +1,4 @@
-# welcome to opennote cs 
+# Welcome to opennote cs 
 
 **Entering into computer science**
 
