@@ -11,3 +11,11 @@ Essentially we study how computers ***think*** and program them to help solve pr
 It gives us a very good and fantastic idea of the vast journey we've just started.
 
 ***Computer science is at the heart of all software and software systems.***   
+
+![alt text]([http://url/to/img.png](https://github.com/opennote-cs/cs/blob/main/module%201%20/lesson%201/img/Overview.png))
+
+On paper computer starts out at the ***theoretical side*** of things then moves into ***development*** and ends with ***application***. That is the actucal deployment of the system. 
+
+But in reality, it doesn't work like that. e.g 👇
+
+![alt text]([http://url/to/img.png](https://github.com/opennote-cs/cs/blob/main/module%201%20/lesson%201/img/Reality.png))
