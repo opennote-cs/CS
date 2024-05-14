@@ -1,4 +1,4 @@
-**What is Computer Science**
+# What is Computer Science
 
 We're to understand exactly. What is meant by the term computer science.
 
@@ -19,3 +19,11 @@ On paper computer starts out at the ***theoretical side*** of things then moves 
 But in reality, it doesn't work like that. e.g 👇
 
 ![alt text](https://github.com/opennote-cs/cs/blob/main/module%201%20/lesson%201/img/Reality.png)
+
+The systems are constantly improved and perfected
+
+*Think of the number of updates your phone or computer has received since you started using it.*
+
+# Did You Know?
+
+😃 Your phone carries more processing power than the computer that sent the first astronauts to the moon! 
